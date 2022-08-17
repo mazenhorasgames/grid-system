@@ -143,7 +143,7 @@ margin-bottom: 200px;
 }
 
 .landing .container .landing-items .landing-text .landing-btn{
-    
+
 }
 
 @media (max-width: 767px){
@@ -202,7 +202,7 @@ margin-bottom: 200px;
 
 .qualities .container .quality-cards{
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     grid-gap: 16px 12px;
     padding: 100px 0 30px;
     margin-bottom: 200px;
