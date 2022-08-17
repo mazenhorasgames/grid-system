@@ -191,11 +191,10 @@ margin-bottom: 200px;
     -moz-transform: translateX(-50%);
     -ms-transform: translateX(-50%);
     -o-transform: translateX(-50%);
+    width: 100%;
+    text-align: center;
 }
 
-/* .qualities .container .quality-text h1{
-    
-} */
 
 .qualities .container .quality-cards{
     display: grid;
