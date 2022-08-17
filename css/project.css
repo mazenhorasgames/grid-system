@@ -142,6 +142,10 @@ margin-bottom: 200px;
     color: #222;
 }
 
+.landing .container .landing-items .landing-text .landing-btn{
+    
+}
+
 @media (max-width: 767px){
     .landing{
         height: fit-content;
